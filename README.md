@@ -4,7 +4,7 @@
  - :computer: Fullstack developer and experience working with C, embedded programming and 5G development
  - :red_car: Big fan of NFL (NE Patriots!) and Formula 1 (McLaren!)
  - :technologist: I enjoy working both on fronend and backend!
- - 💬 I really enjoy coding, problem solving, movies, gaming and sports
+ - 💬 I really enjoy coding, problem solving, movies, gaming and watching sports
 
 ### Languages & Frameworks
 <div float="left">
