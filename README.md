@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- - :tv: Creator of [Dose](https://github.com/GustavPS/Dose), a movie library solution built with next and react.
+ - :tv: Creator of [Dose](https://github.com/DoseLibrary), a movie library solution built with next and react.
  - :computer: Fullstack developer and experience working with C, embedded programming and 5G development
  - :red_car: Big fan of NFL (NE Patriots!) and Formula 1 (McLaren!)
  - :technologist: I enjoy working both on fronend and backend!
